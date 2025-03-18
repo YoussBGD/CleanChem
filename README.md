@@ -23,7 +23,7 @@ Conda est l'environnement recommandé pour l'installation de CleanChem, car il g
 
 2. **Cloner le dépôt** (ou télécharger le fichier `cleanchem.py`)
    ```bash
-   git clone https://github.com/votre-nom/cleanchem.git
+   git clone https://github.com/YoussBGD/cleanchem.git
    cd cleanchem
    ```
 
